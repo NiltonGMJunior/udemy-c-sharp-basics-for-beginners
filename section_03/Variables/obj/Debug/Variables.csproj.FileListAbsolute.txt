@@ -1,0 +1,6 @@
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_03\Variables\bin\Debug\Variables.exe.config
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_03\Variables\bin\Debug\Variables.exe
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_03\Variables\bin\Debug\Variables.pdb
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_03\Variables\obj\Debug\Variables.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_03\Variables\obj\Debug\Variables.exe
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_03\Variables\obj\Debug\Variables.pdb
