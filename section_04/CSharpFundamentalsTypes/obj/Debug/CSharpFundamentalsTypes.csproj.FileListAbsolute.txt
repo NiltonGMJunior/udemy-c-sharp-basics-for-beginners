@@ -1,0 +1,5 @@
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_04\CSharpFundamentalsTypes\bin\Debug\CSharpFundamentalsTypes.exe.config
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_04\CSharpFundamentalsTypes\bin\Debug\CSharpFundamentalsTypes.exe
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_04\CSharpFundamentalsTypes\bin\Debug\CSharpFundamentalsTypes.pdb
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_04\CSharpFundamentalsTypes\obj\Debug\CSharpFundamentalsTypes.exe
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_04\CSharpFundamentalsTypes\obj\Debug\CSharpFundamentalsTypes.pdb

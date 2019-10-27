@@ -1,0 +1,5 @@
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_04\CSharpFundamentalsArrays\bin\Debug\CSharpFundamentalsArrays.exe.config
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_04\CSharpFundamentalsArrays\bin\Debug\CSharpFundamentalsArrays.exe
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_04\CSharpFundamentalsArrays\bin\Debug\CSharpFundamentalsArrays.pdb
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_04\CSharpFundamentalsArrays\obj\Debug\CSharpFundamentalsArrays.exe
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_04\CSharpFundamentalsArrays\obj\Debug\CSharpFundamentalsArrays.pdb
