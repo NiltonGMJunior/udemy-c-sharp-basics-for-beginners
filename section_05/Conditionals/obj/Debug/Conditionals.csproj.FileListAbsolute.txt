@@ -1,0 +1,6 @@
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_05\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_05\Conditionals\bin\Debug\Conditionals.exe
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_05\Conditionals\bin\Debug\Conditionals.pdb
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_05\Conditionals\obj\Debug\Conditionals.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_05\Conditionals\obj\Debug\Conditionals.exe
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_05\Conditionals\obj\Debug\Conditionals.pdb
