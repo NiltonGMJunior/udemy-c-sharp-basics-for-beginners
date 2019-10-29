@@ -1,0 +1,5 @@
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_05\ExercisesA\Exercises02\bin\Debug\Exercises02.exe.config
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_05\ExercisesA\Exercises02\bin\Debug\Exercises02.exe
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_05\ExercisesA\Exercises02\bin\Debug\Exercises02.pdb
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_05\ExercisesA\Exercises02\obj\Debug\Exercises02.exe
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_05\ExercisesA\Exercises02\obj\Debug\Exercises02.pdb
