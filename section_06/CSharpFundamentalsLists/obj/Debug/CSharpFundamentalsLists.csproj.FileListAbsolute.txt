@@ -1,0 +1,5 @@
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_06\CSharpFundamentalsLists\bin\Debug\CSharpFundamentalsLists.exe.config
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_06\CSharpFundamentalsLists\bin\Debug\CSharpFundamentalsLists.exe
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_06\CSharpFundamentalsLists\bin\Debug\CSharpFundamentalsLists.pdb
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_06\CSharpFundamentalsLists\obj\Debug\CSharpFundamentalsLists.exe
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_06\CSharpFundamentalsLists\obj\Debug\CSharpFundamentalsLists.pdb
