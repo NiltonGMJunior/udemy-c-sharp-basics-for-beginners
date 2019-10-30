@@ -1,0 +1,6 @@
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_08\CSharpFundamentalsString\bin\Debug\CSharpFundamentalsString.exe.config
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_08\CSharpFundamentalsString\bin\Debug\CSharpFundamentalsString.exe
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_08\CSharpFundamentalsString\bin\Debug\CSharpFundamentalsString.pdb
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_08\CSharpFundamentalsString\obj\Debug\CSharpFundamentalsString.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_08\CSharpFundamentalsString\obj\Debug\CSharpFundamentalsString.exe
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_08\CSharpFundamentalsString\obj\Debug\CSharpFundamentalsString.pdb
