@@ -1,0 +1,6 @@
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_07\CSharpFundamentalsTimeSpan\bin\Debug\CSharpFundamentalsTimeSpan.exe.config
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_07\CSharpFundamentalsTimeSpan\bin\Debug\CSharpFundamentalsTimeSpan.exe
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_07\CSharpFundamentalsTimeSpan\bin\Debug\CSharpFundamentalsTimeSpan.pdb
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_07\CSharpFundamentalsTimeSpan\obj\Debug\CSharpFundamentalsTimeSpan.exe
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_07\CSharpFundamentalsTimeSpan\obj\Debug\CSharpFundamentalsTimeSpan.pdb
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_07\CSharpFundamentalsTimeSpan\obj\Debug\CSharpFundamentalsTimeSpan.csprojAssemblyReference.cache

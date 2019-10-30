@@ -1,0 +1,6 @@
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_07\CSharpFundamentalsDateTime\bin\Debug\CSharpFundamentalsDateTime.exe.config
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_07\CSharpFundamentalsDateTime\bin\Debug\CSharpFundamentalsDateTime.exe
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_07\CSharpFundamentalsDateTime\bin\Debug\CSharpFundamentalsDateTime.pdb
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_07\CSharpFundamentalsDateTime\obj\Debug\CSharpFundamentalsDateTime.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_07\CSharpFundamentalsDateTime\obj\Debug\CSharpFundamentalsDateTime.exe
+C:\Users\Nilton\Documents\GitHub\udemy_c_sharp_basics_for_beginners\section_07\CSharpFundamentalsDateTime\obj\Debug\CSharpFundamentalsDateTime.pdb
